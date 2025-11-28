@@ -1,2 +1,2 @@
 # sacode-pertemuan-ke-5-melatabuni
-databases/php
+belajar Databases dan Php
